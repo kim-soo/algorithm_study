@@ -1,8 +1,6 @@
-n = int(input())
-
-cnt = 0
-for i in range(1000):
-    cnt += i
-    if cnt > n:
-        print(i-1)
-        break
+5
+1 2 2 3 3
+2 2 2 3 3
+2 2 1 3 1
+2 2 1 1 1
+2 2 1 1 1
